@@ -14,6 +14,7 @@ def hungry_mn
   end
 end
 
+<<<<<<< HEAD
 hungry_mn
 
 def hungry_gp
@@ -25,3 +26,6 @@ def hungry_gp
 end
 
 hungry_gp
+=======
+hungry_mn
+>>>>>>> 8991e6c112a89838e2c528f2acd0374c8c38ff0d
